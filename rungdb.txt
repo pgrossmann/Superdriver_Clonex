@@ -1,0 +1,1 @@
+run -f ~/simulation_out/test_out/gdb -N 1000000000 -n 1000000 -g 4500 -c 1 -s 0.05 -M 1000 -r 12345
