@@ -16,12 +16,12 @@ to use the Makefile to produce a clonex.o from te clonex.c file.
 For a list of options, execute
 
 ```bash
-        ./clonex -h
+./clonex -h
 ```
 
 An example simulation can be run with
 
 ```bash
-	./clonex -s 0.01 -c 2 -u 0.00000001 -g 4500 -R 50 -N 1000000000 -n 1000000 -M 1000 -f tmp
-	```
-	for a simulation with 4500 generations, from a population of 10e6 cells to 10e9 cells using a base selection of 0.01 and a superdriver factor of 2 with 50 replicates each (and without simulating the mutator phenotype).
+./clonex -s 0.01 -c 2 -u 0.00000001 -g 4500 -R 50 -N 1000000000 -n 1000000 -M 1000 -f tmp
+```
+for a simulation with 4500 generations, from a population of 10e6 cells to 10e9 cells using a base selection of 0.01 and a superdriver factor of 2 with 50 replicates each (and without simulating the mutator phenotype).
