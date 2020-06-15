@@ -1,11 +1,14 @@
 /*
   clonex.c
 
-  Version : 0.0.02
+  Version : 0.1.00
   Author  : Niko Beerenwinkel
             Moritz Gerstung
+            Patrick Grossmann
 
-  (c) Niko Beerenwinkel, Moritz Gerstung 2009
+  (c) Niko Beerenwinkel, Moritz Gerstung 2009, Patrick Grossmann 2020
+
+  // Edits 2020 by Patrick Grossmann: Extended model by superdrivers and mutator phenotype
 */
 
 
